@@ -1,0 +1,17 @@
+{
+    "name": "phuvo/apinhoma",
+    "authors": [
+        {
+            "name": "phu",
+            "email": "vongocphu04@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Phuvo\\Apinhoma\\":"src/"
+        }
+    }
+
+}
