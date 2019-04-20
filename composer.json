@@ -12,6 +12,13 @@
             "App\\": "app/",
             "Phuvo\\Apinhoma\\":"src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Phuvo\\Apinhoma\\MyTestServiceProvider"
+            ]
+        }
     }
 
 }
